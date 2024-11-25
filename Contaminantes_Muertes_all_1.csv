@@ -1,0 +1,690 @@
+_id;Mes;Mes;A�o;Magnitud;Tipo_Estacion;Estacion;Zona;Concentraciones_medias_mensuales;Muertes_hombre;Muertes_mujer;Muertes_totales;Total_Concentraciones_medias_mensuales;Indice_Calidad_Aire_CAQI;Indice_Calidad_Aire_Europeo;Umbrales_oms
+6742081cd13b2ab27285521f;01/01/2010;1;2010;Dióxido de azufre;Suburbana;Casa de Campo;Oeste;8;11;12;23;8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855220;01/01/2010;1;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;14;181;173;354;14.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855222;01/01/2010;1;2010;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;9;16;12;28;13.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855223;01/01/2010;1;2010;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;10;36;32;68;9;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285522a;01/02/2010;2;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;14;158;154;312;15;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285522c;01/02/2010;2;2010;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;9;14;11;25;13;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285523e;01/04/2010;4;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;10;157;157;314;10.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855240;01/04/2010;4;2010;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;11;13;11;24;12.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855247;01/05/2010;5;2010;Dióxido de azufre;Suburbana;Casa de Campo;Oeste;11;9;10;19;11;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855248;01/05/2010;5;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;9;161;150;311;9.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855249;01/05/2010;5;2010;Dióxido de azufre;Urbana de Fondo;Sanchinarro;Norte;10;7;6;13;10;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285524b;01/05/2010;5;2010;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;9;32;28;60;8.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855252;01/06/2010;6;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;8;146;139;285;7.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855253;01/06/2010;6;2010;Dióxido de azufre;Urbana de Fondo;Sanchinarro;Norte;7;6;5;11;7;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855254;01/06/2010;6;2010;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;7;13;10;23;6;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285525c;01/07/2010;7;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;8;166;157;323;7.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285525e;01/07/2010;7;2010;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;6;14;11;25;5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855273;01/09/2010;9;2010;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;6;27;26;53;3;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285527d;01/10/2010;10;2010;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;8;31;28;59;4;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285528e;01/12/2010;12;2010;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;13;175;167;342;12.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285528f;01/12/2010;12;2010;Dióxido de azufre;Urbana de Fondo;Sanchinarro;Norte;12;8;7;15;12;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552b6;01/04/2011;4;2011;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;9;163;153;316;5.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552c2;01/05/2011;5;2011;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;6;16;11;27;6.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552d4;01/07/2011;7;2011;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;7;156;150;306;5.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552f1;01/10/2011;10;2011;Dióxido de azufre;Suburbana;Casa de Campo;Oeste;2;12;10;22;2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552f2;01/10/2011;10;2011;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;5;177;162;339;4.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728552f4;01/10/2011;10;2011;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;2;18;12;30;3.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855306;01/12/2011;12;2011;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;7;197;181;378;9.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285531c;01/02/2012;2;2012;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;6;17;16;33;11.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285532e;01/04/2012;4;2012;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;3;168;180;348;2.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855331;01/04/2012;4;2012;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;2;41;31;72;2.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855358;01/08/2012;8;2012;Dióxido de azufre;Urbana de Fondo;Vallecas;Este;2;14;13;27;1.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855369;01/10/2012;10;2012;Dióxido de azufre;Suburbana;Casa de Campo;Oeste;1;11;12;23;1;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285536a;01/10/2012;10;2012;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;3;153;167;320;3.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855381;01/12/2012;12;2012;Dióxido de azufre;Urbana de Fondo;Farolillo;Sur;4;43;35;78;4.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855388;01/01/2013;1;2013;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;7;187;175;362;6.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855392;01/02/2013;2;2013;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;6;162;13;175;6.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728553b0;01/05/2013;5;2013;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;3;162;152;314;3.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728553f6;01/12/2013;12;2013;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;12;195;185;380;10.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285540a;01/02/2014;2;2014;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;7;169;178;347;5.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855446;01/08/2014;8;2014;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;5;149;156;305;4.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855482;01/02/2015;2;2015;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;6;207;239;446;7.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728554e6;01/12/2015;12;2015;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;10;180;200;380;13.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728554f0;01/01/2016;1;2016;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;8;176;205;381;10.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728554f1;01/01/2016;1;2016;Dióxido de azufre;Urbana de Fondo;Sanchinarro;Norte;16;9;10;19;16;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855540;01/09/2016;9;2016;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;14;139;167;306;8.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855568;01/01/2017;1;2017;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;9;225;269;494;8.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855658;01/01/2019;1;2019;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;16;204;237;441;14.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855659;01/01/2019;1;2019;Dióxido de azufre;Urbana de Fondo;Sanchinarro;Norte;14;11;12;23;14;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855662;01/02/2019;2;2019;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;15;178;205;383;13.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728556c6;01/12/2019;12;2019;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;11;167;197;364;9.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855747;01/01/2021;1;2021;Dióxido de azufre;Suburbana;Casa de Campo;Oeste;0;14;15;29;0;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728557ac;01/11/2021;11;2021;Dióxido de azufre;Urbana de Fondo;Plaza del Carmen;Interior M30;4;118;134;252;1.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728557bf;01/01/2010;1;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;35;8;7;15;47.16666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557c0;01/01/2010;1;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;36;11;12;23;30.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728557c2;01/01/2010;1;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;52;181;173;354;39;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728557ca;01/01/2010;1;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;47;16;12;28;52.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557cc;01/01/2010;1;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;48;36;32;68;54.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557d7;01/02/2010;2;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;30;7;6;13;42.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557d8;01/02/2010;2;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;34;9;10;19;28;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728557da;01/02/2010;2;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;50;158;154;312;43.2;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557e2;01/02/2010;2;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;45;14;11;25;49.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557e4;01/02/2010;2;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;48;32;29;61;52.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557ef;01/03/2010;3;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;26;7;6;13;37.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728557f0;01/03/2010;3;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;28;9;10;19;23.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728557f2;01/03/2010;3;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;47;156;149;305;40;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557fa;01/03/2010;3;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;41;13;10;23;44;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728557fc;01/03/2010;3;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;44;31;28;59;50;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855807;01/04/2010;4;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;23;7;6;13;33.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855808;01/04/2010;4;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;26;9;11;20;22;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285580a;01/04/2010;4;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;41;157;157;314;37.8;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855812;01/04/2010;4;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;34;13;11;24;36.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855814;01/04/2010;4;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;38;32;29;61;44.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855822;01/05/2010;5;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;31;161;150;311;30.1;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285582a;01/05/2010;5;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;26;14;10;24;24.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285582c;01/05/2010;5;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;30;32;28;60;34.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855838;01/06/2010;6;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;19;9;9;18;17.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285583a;01/06/2010;6;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;32;146;139;285;40.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855842;01/06/2010;6;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;28;13;10;23;33;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855844;01/06/2010;6;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;30;29;26;55;38;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285584f;01/07/2010;7;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;24;7;6;13;36.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855852;01/07/2010;7;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;166;157;323;47.3;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285585a;01/07/2010;7;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;36;14;11;25;38.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285585c;01/07/2010;7;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;36;33;29;62;48;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855867;01/08/2010;8;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;22;6;6;12;29.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855868;01/08/2010;8;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;21;9;10;19;20;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285586a;01/08/2010;8;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;146;146;292;41;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855872;01/08/2010;8;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;32;13;10;23;34;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855874;01/08/2010;8;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;30;29;27;56;40.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855880;01/09/2010;9;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;31;8;9;17;27.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855882;01/09/2010;9;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;53;134;137;271;54.8;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285588a;01/09/2010;9;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;43;12;10;22;46.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285588c;01/09/2010;9;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;42;27;26;53;36;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855897;01/10/2010;10;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;35;7;6;13;53;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855898;01/10/2010;10;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;43;9;10;19;36.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285589a;01/10/2010;10;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;64;156;150;306;65.7;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558a2;01/10/2010;10;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;58;13;10;23;60.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558af;01/11/2010;11;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;34;7;6;13;49.83333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558b2;01/11/2010;11;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;55;158;153;311;57.8;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558ba;01/11/2010;11;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;54;14;11;25;55.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558bc;01/11/2010;11;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;50;32;29;61;59;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558c7;01/12/2010;12;2010;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;35;8;7;15;55;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558c8;01/12/2010;12;2010;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;44;10;11;21;37;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728558ca;01/12/2010;12;2010;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;63;175;167;342;62.4;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558d2;01/12/2010;12;2010;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;53;15;12;27;58.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558d4;01/12/2010;12;2010;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;56;35;31;66;66.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558df;01/01/2011;1;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;35;9;8;17;52.5;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558e0;01/01/2011;1;2011;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;42;13;11;24;34.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728558e2;01/01/2011;1;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;57;192;184;376;58.5;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558ea;01/01/2011;1;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;55;19;14;33;57.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558ec;01/01/2011;1;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;56;41;33;74;65.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728558fa;01/02/2011;2;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;65;170;157;327;68.2;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855902;01/02/2011;2;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;58;17;12;29;62;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855904;01/02/2011;2;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;60;37;28;65;68;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285590f;01/03/2011;3;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;26;9;7;16;32.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855910;01/03/2011;3;2011;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;26;12;10;22;24.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855912;01/03/2011;3;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;48;187;162;349;48.2;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285591a;01/03/2011;3;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;41;19;12;31;41.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285591c;01/03/2011;3;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;37;40;29;69;43.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855928;01/04/2011;4;2011;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;27;11;9;20;20.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285592a;01/04/2011;4;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;44;163;153;316;46.6;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855932;01/04/2011;4;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;34;16;11;27;38.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855934;01/04/2011;4;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;36;35;28;63;45;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855942;01/05/2011;5;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;162;151;313;43.3;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285594c;01/05/2011;5;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;29;35;27;62;39.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855957;01/06/2011;6;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;23;8;7;15;30.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285595a;01/06/2011;6;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;34;158;145;303;43.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285596f;01/07/2011;7;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;17;8;7;15;25.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855972;01/07/2011;7;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;29;156;150;306;36.2;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285597a;01/07/2011;7;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;23;16;11;27;29;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285597c;01/07/2011;7;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;24;34;27;61;32.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855987;01/08/2011;8;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;20;7;7;14;31;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855988;01/08/2011;8;2011;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;21;10;9;19;19;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285598a;01/08/2011;8;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;33;152;151;303;38.3;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855992;01/08/2011;8;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;27;15;11;26;33.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855994;01/08/2011;8;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;28;33;27;60;35.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285599f;01/09/2011;9;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;31;7;7;14;46;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559a2;01/09/2011;9;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;50;147;145;292;55.7;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559aa;01/09/2011;9;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;41;15;11;26;48.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559b7;01/10/2011;10;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;29;9;7;16;43;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559ba;01/10/2011;10;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;59;177;162;339;56.5;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559c4;01/10/2011;10;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;49;38;29;67;60.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559cf;01/11/2011;11;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;31;8;8;16;44.83333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559d2;01/11/2011;11;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;52;175;171;346;51.9;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559da;01/11/2011;11;2011;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;42;18;13;31;45.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559dc;01/11/2011;11;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;43;38;31;69;52;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559e7;01/12/2011;12;2011;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;40;9;8;17;54.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559ea;01/12/2011;12;2011;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;63;197;181;378;58.8;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559f4;01/12/2011;12;2011;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;50;42;33;75;62.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728559ff;01/01/2012;1;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;39;12;12;24;56.83333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a02;01/01/2012;1;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;69;208;244;452;60.9;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a0c;01/01/2012;1;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;56;51;41;92;70;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a1a;01/02/2012;2;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;55;186;212;398;52.2;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a24;01/02/2012;2;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;48;46;36;82;58.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a2f;01/03/2012;3;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;25;11;10;21;39.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a3a;01/03/2012;3;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;37;17;16;33;41.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a3c;01/03/2012;3;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;42;46;34;80;51.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855a47;01/04/2012;4;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;15;9;9;18;23.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855a4a;01/04/2012;4;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;25;168;180;348;30.8;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a52;01/04/2012;4;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;18;15;14;29;24.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855a54;01/04/2012;4;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;21;41;31;72;27.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a5f;01/05/2012;5;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;18;10;8;18;28.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a62;01/05/2012;5;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;31;175;175;350;37.7;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a6a;01/05/2012;5;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;22;16;14;30;28.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a6c;01/05/2012;5;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;28;43;30;73;35.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a77;01/06/2012;6;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;14;9;8;17;22.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855a7a;01/06/2012;6;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;24;161;166;327;32.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a84;01/06/2012;6;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;22;40;28;68;29.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a92;01/07/2012;7;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;28;152;174;326;34.6;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a9a;01/07/2012;7;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;20;13;13;26;26;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855a9c;01/07/2012;7;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;23;37;29;66;32;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855aaa;01/08/2012;8;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;30;157;167;324;33.4;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855ab4;01/08/2012;8;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;24;39;28;67;33.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855ac0;01/09/2012;9;2012;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;21;11;10;21;17;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855ac2;01/09/2012;9;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;36;150;151;301;39.3;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855aca;01/09/2012;9;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;25;13;12;25;30.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855ad7;01/10/2012;10;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;30;9;8;17;41.83333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855ae4;01/10/2012;10;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;40;38;28;66;50.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855aef;01/11/2012;11;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;22;9;8;17;36.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855af0;01/11/2012;11;2012;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;26;12;12;24;19.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855af2;01/11/2012;11;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;166;178;344;45.3;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855afa;01/11/2012;11;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;34;15;14;29;39.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855afc;01/11/2012;11;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;40;41;30;71;47.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b07;01/12/2012;12;2012;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;27;10;10;20;46.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b08;01/12/2012;12;2012;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;32;13;14;27;26.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b0a;01/12/2012;12;2012;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;45;176;205;381;54.6;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b12;01/12/2012;12;2012;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;42;16;16;32;51;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b14;01/12/2012;12;2012;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;50;43;35;78;57.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b20;01/01/2013;1;2013;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;25;15;14;29;23;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855b22;01/01/2013;1;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;40;187;175;362;49;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b2c;01/01/2013;1;2013;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;43;42;30;72;50.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b37;01/02/2013;2;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;19;9;8;17;35;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b38;01/02/2013;2;2013;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;21;13;13;26;18;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855b3a;01/02/2013;2;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;36;162;164;326;43.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855b4f;01/03/2013;3;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;15;9;8;17;26.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b5a;01/03/2013;3;2013;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;19;17;14;31;24;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855b5c;01/03/2013;3;2013;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;26;38;31;69;31.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b67;01/04/2013;4;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;13;8;7;15;23.16666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855b6a;01/04/2013;4;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;23;156;162;318;30.4;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b74;01/04/2013;4;2013;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;25;35;28;63;32.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b7f;01/05/2013;5;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;8;9;7;16;21;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855b82;01/05/2013;5;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;23;162;152;314;29.7;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855b9a;01/06/2013;6;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;20;161;158;319;28.4;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855baf;01/07/2013;7;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;15;9;8;17;21.16666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855bc7;01/08/2013;8;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;15;8;7;15;21.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855bc8;01/08/2013;8;2013;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;14;12;12;24;16.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855bca;01/08/2013;8;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;22;153;148;301;28.8;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855bd2;01/08/2013;8;2013;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;18;15;12;27;20.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855bdf;01/09/2013;9;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;23;8;7;15;32.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855be2;01/09/2013;9;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;34;153;146;299;42.7;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855bea;01/09/2013;9;2013;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;26;15;11;26;30.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855bf7;01/10/2013;10;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;27;9;7;16;38.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855c02;01/10/2013;10;2013;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;31;16;12;28;37.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855c10;01/11/2013;11;2013;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;26;14;13;27;21.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855c12;01/11/2013;11;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;40;175;170;345;44.7;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c27;01/12/2013;12;2013;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;30;10;9;19;50.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c2a;01/12/2013;12;2013;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;59;195;185;380;61.6;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c34;01/12/2013;12;2013;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;59;44;32;76;70.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c42;01/01/2014;1;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;36;208;209;417;44.1;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c58;01/02/2014;2;2014;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;18;11;14;25;15.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855c5a;01/02/2014;2;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;31;169;178;347;39.7;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855c72;01/03/2014;3;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;37;185;172;357;42.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855c8a;01/04/2014;4;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;28;166;165;331;34.2;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855c9f;01/05/2014;5;2014;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;12;7;11;18;19.16666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855ca2;01/05/2014;5;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;23;155;163;318;29.4;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855cb7;01/06/2014;6;2014;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;11;7;10;17;20.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855ccf;01/07/2014;7;2014;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;13;7;11;18;21.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855cd2;01/07/2014;7;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;23;160;158;318;31.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855cea;01/08/2014;8;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;19;149;156;305;25.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855cf2;01/08/2014;8;2014;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;16;16;13;29;23.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855cff;01/09/2014;9;2014;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;19;6;10;16;30.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855d02;01/09/2014;9;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;30;145;149;294;34.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855d17;01/10/2014;10;2014;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;27;7;11;18;38.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855d1a;01/10/2014;10;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;44;168;158;326;48.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d22;01/10/2014;10;2014;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;49;18;13;31;47.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d32;01/11/2014;11;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;168;163;331;45.4;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d3a;01/11/2014;11;2014;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;43;18;14;32;42.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d4a;01/12/2014;12;2014;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;59;190;182;372;63.4;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d52;01/12/2014;12;2014;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;66;21;14;35;62.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d54;01/12/2014;12;2014;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;60;46;31;77;71.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d5f;01/01/2015;1;2015;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;42;14;16;30;60.5;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d62;01/01/2015;1;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;67;237;273;510;71.2;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d6a;01/01/2015;1;2015;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;70;22;26;48;66.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d6c;01/01/2015;1;2015;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;63;58;66;124;78.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d77;01/02/2015;2;2015;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;24;12;14;26;34.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855d7a;01/02/2015;2;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;37;207;239;446;40.1;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855d8f;01/03/2015;3;2015;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;30;11;12;23;38.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855d92;01/03/2015;3;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;44;190;208;398;46.4;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855da7;01/04/2015;4;2015;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;17;9;11;20;26.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855daa;01/04/2015;4;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;29;162;189;351;32.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855dca;01/05/2015;5;2015;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;33;16;18;34;29.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855def;01/07/2015;7;2015;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;21;12;14;26;28.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855df2;01/07/2015;7;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;29;200;243;443;38.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855e0a;01/08/2015;8;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;28;165;171;336;30;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855e20;01/09/2015;9;2015;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;18;12;14;26;18.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272855e22;01/09/2015;9;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;35;143;168;311;40.3;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e3a;01/10/2015;10;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;32;170;171;341;45.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e52;01/11/2015;11;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;50;168;184;352;61;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e5a;01/11/2015;11;2015;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;68;16;17;33;61.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e5c;01/11/2015;11;2015;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;58;41;45;86;66;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e6a;01/12/2015;12;2015;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;66;180;200;380;67.4;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e72;01/12/2015;12;2015;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;71;17;19;36;68.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e74;01/12/2015;12;2015;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;70;44;49;93;80.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e7f;01/01/2016;1;2016;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;23;9;10;19;40.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e82;01/01/2016;1;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;44;176;205;381;45.1;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e8c;01/01/2016;1;2016;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;42;41;48;89;47;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855e97;01/02/2016;2;2016;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;18;8;9;17;33.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855e9a;01/02/2016;2;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;37;165;183;348;39.1;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855eb2;01/03/2016;3;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;36;174;206;380;39.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855ebc;01/03/2016;3;2016;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;37;41;49;90;42;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855ec7;01/04/2016;4;2016;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;17;8;9;17;29.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855eca;01/04/2016;4;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;30;161;177;338;36.3;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855edf;01/05/2016;5;2016;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;17;8;9;17;27.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855ee2;01/05/2016;5;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;27;151;172;323;34.7;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855f2a;01/08/2016;8;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;26;156;167;323;31.7;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855f32;01/08/2016;8;2016;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;24;18;19;37;26.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855f58;01/10/2016;10;2016;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;31;12;13;25;27;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272855f5a;01/10/2016;10;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;54;153;170;323;54.7;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855f72;01/11/2016;11;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;53;150;172;322;52.4;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855f87;01/12/2016;12;2016;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;26;10;9;19;49.16666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855f8a;01/12/2016;12;2016;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;61;196;186;382;59.5;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855fa2;01/01/2017;1;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;60;225;269;494;56.6;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855faa;01/01/2017;1;2017;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;49;24;28;52;53.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855fac;01/01/2017;1;2017;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;56;53;63;116;64;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855fcf;01/03/2017;3;2017;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;34;10;10;20;40.16666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272855fd2;01/03/2017;3;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;43;174;189;363;44.2;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285601a;01/06/2017;6;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;29;161;194;355;37.2;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856047;01/08/2017;8;2017;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;18;8;10;18;24.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856062;01/09/2017;9;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;43;151;164;315;41.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285607a;01/10/2017;10;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;57;160;184;344;58;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856082;01/10/2017;10;2017;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;53;17;19;36;51.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285608f;01/11/2017;11;2017;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;45;9;10;19;57;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285609a;01/11/2017;11;2017;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;67;17;19;36;63.33333333;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285609c;01/11/2017;11;2017;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;63;38;42;80;76.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560aa;01/12/2017;12;2017;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;55;195;223;418;56.4;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560b4;01/12/2017;12;2017;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;53;46;52;98;63;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560c2;01/01/2018;1;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;49;209;260;469;51.7;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560da;01/02/2018;2;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;48;175;201;376;50.6;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560e2;01/02/2018;2;2018;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;44;19;21;40;45.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728560e4;01/02/2018;2;2018;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;46;39;45;84;54;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285610a;01/04/2018;4;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;28;165;180;345;35.3;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285611f;01/05/2018;5;2018;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;18;10;10;20;25.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856122;01/05/2018;5;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;27;162;175;337;33.9;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856137;01/06/2018;6;2018;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;16;9;11;20;22.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285613a;01/06/2018;6;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;24;159;185;344;31.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856142;01/06/2018;6;2018;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;28;17;20;37;27.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856152;01/07/2018;7;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;22;150;162;312;31.6;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285616a;01/08/2018;8;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;27;159;183;342;31.8;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856182;01/09/2018;9;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;36;150;159;309;42.2;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285618c;01/09/2018;9;2018;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;33;34;36;70;44.33333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285619a;01/10/2018;10;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;41;159;176;335;44.8;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561a2;01/10/2018;10;2018;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;41;17;19;36;40.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561b2;01/11/2018;11;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;38;165;184;349;43.7;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561ca;01/12/2018;12;2018;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;51;189;196;385;58.3;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561df;01/01/2019;1;2019;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;39;11;12;23;50.16666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561ea;01/01/2019;1;2019;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;61;21;24;45;59.66666667;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728561f7;01/02/2019;2;2019;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;41;9;11;20;50.83333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856204;01/02/2019;2;2019;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;55;41;48;89;69;Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285621c;01/03/2019;3;2019;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;36;40;47;87;46.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285622a;01/04/2019;4;2019;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;25;152;169;321;29.3;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285623f;01/05/2019;5;2019;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;14;8;9;17;18.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856242;01/05/2019;5;2019;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;21;157;179;336;24.7;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285624a;01/05/2019;5;2019;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;25;16;18;34;22.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285625a;01/06/2019;6;2019;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;21;156;171;327;27.6;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285627a;01/07/2019;7;2019;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;24;16;20;36;25.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285627c;01/07/2019;7;2019;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;22;37;45;82;31.66666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856287;01/08/2019;8;2019;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;20;8;9;17;23.83333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728562a2;01/09/2019;9;2019;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;34;138;152;290;33.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728562e8;01/12/2019;12;2019;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;26;14;17;31;22.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728562f2;01/12/2019;12;2019;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;46;17;20;37;43.66666667;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab2728562ff;01/01/2020;1;2020;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;35;15;18;33;45.5;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856302;01/01/2020;1;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;47;247;288;535;50.7;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856318;01/02/2020;2;2020;Dióxido de nitrógeno;Suburbana;Casa de Campo;Oeste;30;17;19;36;25;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285631a;01/02/2020;2;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;45;211;240;451;46.9;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab27285633a;01/03/2020;3;2020;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;28;83;77;160;26.33333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856347;01/04/2020;4;2020;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;8;39;47;86;10.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285634a;01/04/2020;4;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;13;637;779;1416;12.3;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856352;01/04/2020;4;2020;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;19;70;85;155;15.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285635f;01/05/2020;5;2020;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;8;14;16;30;10.16666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285636c;01/05/2020;5;2020;Dióxido de nitrógeno;Urbana de Fondo;Farolillo;Sur;14;53;60;113;17.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285637a;01/06/2020;6;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;14;184;208;392;17.1;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856382;01/06/2020;6;2020;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;22;20;23;43;19.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285638f;01/07/2020;7;2020;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;13;12;15;27;15.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856392;01/07/2020;7;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;19;201;245;446;21.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728563f2;01/11/2020;11;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;240;248;488;42.8;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856407;01/12/2020;12;2020;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;17;14;16;30;27.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285640a;01/12/2020;12;2020;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;29;238;263;501;33.1;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285641f;01/01/2021;1;2021;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;29;9;9;18;42.83333333;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856422;01/01/2021;1;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;44;164;172;336;47.2;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081cd13b2ab272856437;01/02/2021;2;2021;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;24;7;7;14;29.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285643a;01/02/2021;2;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;33;128;133;261;32.4;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285647f;01/05/2021;5;2021;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;13;6;7;13;17.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856482;01/05/2021;5;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;18;112;137;249;20.9;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285648a;01/05/2021;5;2021;Dióxido de nitrógeno;Urbana de Fondo;Ensanche de Vallecas;Este;16;13;16;29;18.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285649a;01/06/2021;6;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;19;128;151;279;22.1;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728564b2;01/07/2021;7;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;20;160;194;354;23.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728564ca;01/08/2021;8;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;19;120;156;276;21.1;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728564e2;01/09/2021;9;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;24;107;118;225;28.2;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728564f7;01/10/2021;10;2021;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;27;6;7;13;35.16666667;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab2728564fa;01/10/2021;10;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;39;117;130;247;39.5;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab272856527;01/12/2021;12;2021;Dióxido de nitrógeno;Suburbana;Juan Carlos I;Norte;31;8;9;17;37.83333333;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285652a;01/12/2021;12;2021;Dióxido de nitrógeno;Urbana de Fondo;Méndez Álvaro;Interior M30;42;144;165;309;35.8;Muy Bueno;Bueno;Concentración elevada
+6742081cd13b2ab27285653f;01/01/2010;1;2010;Ozono;Suburbana;Juan Carlos I;Norte;30;8;7;15;23.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285655b;01/03/2010;3;2010;Ozono;Suburbana;Juan Carlos I;Norte;65;7;6;13;54.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285655c;01/03/2010;3;2010;Ozono;Suburbana;Casa de Campo;Oeste;60;9;10;19;60;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856569;01/04/2010;4;2010;Ozono;Suburbana;Juan Carlos I;Norte;80;7;6;13;64.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285656a;01/04/2010;4;2010;Ozono;Suburbana;Casa de Campo;Oeste;74;9;11;20;72;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856572;01/04/2010;4;2010;Ozono;Urbana de Fondo;Farolillo;Sur;66;32;29;61;55.33333333;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856577;01/05/2010;5;2010;Ozono;Suburbana;Juan Carlos I;Norte;84;7;6;13;67.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856578;01/05/2010;5;2010;Ozono;Suburbana;Casa de Campo;Oeste;77;9;10;19;75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285657a;01/05/2010;5;2010;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;64;161;150;311;63.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285657f;01/05/2010;5;2010;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;73;14;10;24;73;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856580;01/05/2010;5;2010;Ozono;Urbana de Fondo;Farolillo;Sur;71;32;28;60;59.33333333;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856585;01/06/2010;6;2010;Ozono;Suburbana;Juan Carlos I;Norte;73;6;5;11;66.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856586;01/06/2010;6;2010;Ozono;Suburbana;Casa de Campo;Oeste;74;9;9;18;71.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856588;01/06/2010;6;2010;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;56;146;139;285;54.5;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856593;01/07/2010;7;2010;Ozono;Suburbana;Juan Carlos I;Norte;82;7;6;13;74.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856594;01/07/2010;7;2010;Ozono;Suburbana;Casa de Campo;Oeste;85;10;11;21;82.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728565a1;01/08/2010;8;2010;Ozono;Suburbana;Juan Carlos I;Norte;75;6;6;12;68.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728565a4;01/08/2010;8;2010;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;58;146;146;292;58.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728565a9;01/08/2010;8;2010;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;65;13;10;23;65;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728565af;01/09/2010;9;2010;Ozono;Suburbana;Juan Carlos I;Norte;56;6;5;11;51.5;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728565bd;01/10/2010;10;2010;Ozono;Suburbana;Juan Carlos I;Norte;40;7;6;13;37.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565be;01/10/2010;10;2010;Ozono;Suburbana;Casa de Campo;Oeste;34;9;10;19;37.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565c0;01/10/2010;10;2010;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;28;156;150;306;27.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565d9;01/12/2010;12;2010;Ozono;Suburbana;Juan Carlos I;Norte;26;8;7;15;23.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565ea;01/01/2011;1;2011;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;18;192;184;376;19.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565f0;01/01/2011;1;2011;Ozono;Urbana de Fondo;Farolillo;Sur;19;41;33;74;16.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728565f5;01/02/2011;2;2011;Ozono;Suburbana;Juan Carlos I;Norte;38;8;7;15;31.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856603;01/03/2011;3;2011;Ozono;Suburbana;Juan Carlos I;Norte;64;9;7;16;53.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856604;01/03/2011;3;2011;Ozono;Suburbana;Casa de Campo;Oeste;52;12;10;22;47.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856614;01/04/2011;4;2011;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;63;163;153;316;53.5;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856619;01/04/2011;4;2011;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;71;16;11;27;71;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856620;01/05/2011;5;2011;Ozono;Suburbana;Casa de Campo;Oeste;59;11;9;20;61.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856622;01/05/2011;5;2011;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;62;162;151;313;56;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856635;01/06/2011;6;2011;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;77;16;11;27;77;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285663b;01/07/2011;7;2011;Ozono;Suburbana;Juan Carlos I;Norte;82;8;7;15;77.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856651;01/08/2011;8;2011;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;67;15;11;26;67;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856668;01/10/2011;10;2011;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;29;177;162;339;29.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285668a;01/12/2011;12;2011;Ozono;Urbana de Fondo;Farolillo;Sur;15;42;33;75;14.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285668f;01/01/2012;1;2012;Ozono;Suburbana;Juan Carlos I;Norte;21;12;12;24;17.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856692;01/01/2012;1;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;8;208;244;452;12.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856698;01/01/2012;1;2012;Ozono;Urbana de Fondo;Farolillo;Sur;13;51;41;92;11.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728566ab;01/03/2012;3;2012;Ozono;Suburbana;Juan Carlos I;Norte;52;11;10;21;45.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728566ae;01/03/2012;3;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;37;188;202;390;40.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728566ba;01/04/2012;4;2012;Ozono;Suburbana;Casa de Campo;Oeste;63;12;12;24;64.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728566c7;01/05/2012;5;2012;Ozono;Suburbana;Juan Carlos I;Norte;60;10;8;18;57.5;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728566d5;01/06/2012;6;2012;Ozono;Suburbana;Juan Carlos I;Norte;63;9;8;17;62.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728566d8;01/06/2012;6;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;54;161;166;327;53.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728566f1;01/08/2012;8;2012;Ozono;Suburbana;Juan Carlos I;Norte;59;9;8;17;56.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856700;01/09/2012;9;2012;Ozono;Suburbana;Casa de Campo;Oeste;54;11;10;21;55.5;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856702;01/09/2012;9;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;46;150;151;301;45.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285671b;01/11/2012;11;2012;Ozono;Suburbana;Juan Carlos I;Norte;33;9;8;17;27.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285671e;01/11/2012;11;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;21;166;178;344;21.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285672c;01/12/2012;12;2012;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;17;176;205;381;14.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856745;01/02/2013;2;2013;Ozono;Suburbana;Juan Carlos I;Norte;38;9;8;17;37.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856748;01/02/2013;2;2013;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;30;162;164;326;32.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856762;01/04/2013;4;2013;Ozono;Suburbana;Casa de Campo;Oeste;70;12;13;25;67.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856764;01/04/2013;4;2013;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;55;156;162;318;55.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285676f;01/05/2013;5;2013;Ozono;Suburbana;Juan Carlos I;Norte;78;9;7;16;69.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856772;01/05/2013;5;2013;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;56;162;152;314;59.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285677d;01/06/2013;6;2013;Ozono;Suburbana;Juan Carlos I;Norte;89;8;7;15;81.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285677e;01/06/2013;6;2013;Ozono;Suburbana;Casa de Campo;Oeste;88;12;12;24;84;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856785;01/06/2013;6;2013;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;79;16;12;28;79;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285678b;01/07/2013;7;2013;Ozono;Suburbana;Juan Carlos I;Norte;86;9;8;17;86.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285678c;01/07/2013;7;2013;Ozono;Suburbana;Casa de Campo;Oeste;94;13;13;26;92;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285678e;01/07/2013;7;2013;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;78;164;164;328;78;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856793;01/07/2013;7;2013;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;83;16;13;29;83;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856794;01/07/2013;7;2013;Ozono;Urbana de Fondo;Farolillo;Sur;84;37;28;65;77.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856799;01/08/2013;8;2013;Ozono;Suburbana;Juan Carlos I;Norte;67;8;7;15;76.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285679a;01/08/2013;8;2013;Ozono;Suburbana;Casa de Campo;Oeste;88;12;12;24;85.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285679c;01/08/2013;8;2013;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;69;153;148;301;70.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728567c3;01/11/2013;11;2013;Ozono;Suburbana;Juan Carlos I;Norte;37;9;8;17;34.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567d1;01/12/2013;12;2013;Ozono;Suburbana;Juan Carlos I;Norte;29;10;9;19;25.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567da;01/12/2013;12;2013;Ozono;Urbana de Fondo;Farolillo;Sur;21;44;32;76;18.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567e2;01/01/2014;1;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;30;208;209;417;28.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567e8;01/01/2014;1;2014;Ozono;Urbana de Fondo;Farolillo;Sur;41;50;35;85;34.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567ed;01/02/2014;2;2014;Ozono;Suburbana;Juan Carlos I;Norte;37;8;12;20;40.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567f0;01/02/2014;2;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;37;169;178;347;35.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728567fe;01/03/2014;3;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;46;185;172;357;46.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285681f;01/05/2014;5;2014;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;76;17;14;31;76;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856820;01/05/2014;5;2014;Ozono;Urbana de Fondo;Farolillo;Sur;82;37;27;64;69.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856826;01/06/2014;6;2014;Ozono;Suburbana;Casa de Campo;Oeste;87;11;12;23;84.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856828;01/06/2014;6;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;80;163;152;315;71.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285682d;01/06/2014;6;2014;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;80;18;13;31;80;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285682e;01/06/2014;6;2014;Ozono;Urbana de Fondo;Farolillo;Sur;79;39;26;65;67.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856833;01/07/2014;7;2014;Ozono;Suburbana;Juan Carlos I;Norte;76;7;11;18;81.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856834;01/07/2014;7;2014;Ozono;Suburbana;Casa de Campo;Oeste;89;11;12;23;87;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856841;01/08/2014;8;2014;Ozono;Suburbana;Juan Carlos I;Norte;70;7;11;18;75.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856842;01/08/2014;8;2014;Ozono;Suburbana;Casa de Campo;Oeste;84;10;12;22;81;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856844;01/08/2014;8;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;76;149;156;305;68.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856849;01/08/2014;8;2014;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;74;16;13;29;74;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285684a;01/08/2014;8;2014;Ozono;Urbana de Fondo;Farolillo;Sur;74;36;26;62;63.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856852;01/09/2014;9;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;60;145;149;294;50.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285686e;01/11/2014;11;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;29;168;163;331;28.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285687c;01/12/2014;12;2014;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;14;190;182;372;17.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856895;01/02/2015;2;2015;Ozono;Suburbana;Juan Carlos I;Norte;65;12;14;26;51.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856898;01/02/2015;2;2015;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;37;207;239;446;42.5;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728568a6;01/03/2015;3;2015;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;34;190;208;398;41.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728568b1;01/04/2015;4;2015;Ozono;Suburbana;Juan Carlos I;Norte;79;9;11;20;67.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568b2;01/04/2015;4;2015;Ozono;Suburbana;Casa de Campo;Oeste;67;13;16;29;69.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568bf;01/05/2015;5;2015;Ozono;Suburbana;Juan Carlos I;Norte;83;10;11;21;73.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568c8;01/05/2015;5;2015;Ozono;Urbana de Fondo;Farolillo;Sur;67;41;46;87;64.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568ce;01/06/2015;6;2015;Ozono;Suburbana;Casa de Campo;Oeste;90;14;15;29;88.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568d0;01/06/2015;6;2015;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;82;171;178;349;79.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568d5;01/06/2015;6;2015;Ozono;Urbana de Fondo;Ensanche de Vallecas;Este;90;16;17;33;90;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568dc;01/07/2015;7;2015;Ozono;Suburbana;Casa de Campo;Oeste;84;17;20;37;86;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568de;01/07/2015;7;2015;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;78;200;243;443;73.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568f7;01/09/2015;9;2015;Ozono;Suburbana;Juan Carlos I;Norte;55;8;10;18;55.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728568f8;01/09/2015;9;2015;Ozono;Suburbana;Casa de Campo;Oeste;65;12;14;26;65.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856905;01/10/2015;10;2015;Ozono;Suburbana;Juan Carlos I;Norte;38;10;10;20;33.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856908;01/10/2015;10;2015;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;32;170;171;341;28.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856921;01/12/2015;12;2015;Ozono;Suburbana;Juan Carlos I;Norte;25;11;12;23;19.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285695c;01/04/2016;4;2016;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;41;161;177;338;49.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285696a;01/05/2016;5;2016;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;45;151;172;323;56.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856975;01/06/2016;6;2016;Ozono;Suburbana;Juan Carlos I;Norte;81;8;8;16;72.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856976;01/06/2016;6;2016;Ozono;Suburbana;Casa de Campo;Oeste;75;12;13;25;76.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856978;01/06/2016;6;2016;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;40;154;170;324;57.25;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856983;01/07/2016;7;2016;Ozono;Suburbana;Juan Carlos I;Norte;90;8;9;17;82.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285698c;01/07/2016;7;2016;Ozono;Urbana de Fondo;Farolillo;Sur;83;38;43;81;74.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856992;01/08/2016;8;2016;Ozono;Suburbana;Casa de Campo;Oeste;81;12;13;25;83.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728569ad;01/10/2016;10;2016;Ozono;Suburbana;Juan Carlos I;Norte;41;8;9;17;34.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569b0;01/10/2016;10;2016;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;31;153;170;323;31.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569c9;01/12/2016;12;2016;Ozono;Suburbana;Juan Carlos I;Norte;29;10;9;19;22.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569cc;01/12/2016;12;2016;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;11;196;186;382;16.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569d2;01/12/2016;12;2016;Ozono;Urbana de Fondo;Farolillo;Sur;12;46;44;90;14.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569da;01/01/2017;1;2017;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;20;225;269;494;22.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728569e5;01/02/2017;2;2017;Ozono;Suburbana;Juan Carlos I;Norte;42;10;12;22;38.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856a0a;01/04/2017;4;2017;Ozono;Urbana de Fondo;Farolillo;Sur;66;36;43;79;67.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856a0f;01/05/2017;5;2017;Ozono;Suburbana;Juan Carlos I;Norte;70;9;10;19;70.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856a10;01/05/2017;5;2017;Ozono;Suburbana;Casa de Campo;Oeste;80;14;15;29;75.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856a20;01/06/2017;6;2017;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;64;161;194;355;64.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856a2b;01/07/2017;7;2017;Ozono;Suburbana;Juan Carlos I;Norte;71;9;10;19;72.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856a55;01/10/2017;10;2017;Ozono;Suburbana;Juan Carlos I;Norte;42;9;10;19;39.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856a63;01/11/2017;11;2017;Ozono;Suburbana;Juan Carlos I;Norte;29;9;10;19;26.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856a82;01/01/2018;1;2018;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;15;209;260;469;21.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856a9b;01/03/2018;3;2018;Ozono;Suburbana;Juan Carlos I;Norte;63;11;12;23;62.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ab2;01/04/2018;4;2018;Ozono;Urbana de Fondo;Farolillo;Sur;62;37;41;78;56.33333333;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ace;01/06/2018;6;2018;Ozono;Urbana de Fondo;Farolillo;Sur;67;36;42;78;65.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ad3;01/07/2018;7;2018;Ozono;Suburbana;Juan Carlos I;Norte;84;9;10;19;81.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ad4;01/07/2018;7;2018;Ozono;Suburbana;Casa de Campo;Oeste;92;14;15;29;89;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ad6;01/07/2018;7;2018;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;72;150;162;312;76.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856adc;01/07/2018;7;2018;Ozono;Urbana de Fondo;Farolillo;Sur;81;34;37;71;78.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856aea;01/08/2018;8;2018;Ozono;Urbana de Fondo;Farolillo;Sur;76;36;41;77;69.66666667;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856aef;01/09/2018;9;2018;Ozono;Suburbana;Juan Carlos I;Norte;67;9;9;18;66.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b0b;01/11/2018;11;2018;Ozono;Suburbana;Juan Carlos I;Norte;30;10;11;21;29.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856b2a;01/01/2019;1;2019;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;28;204;237;441;25.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856b35;01/02/2019;2;2019;Ozono;Suburbana;Juan Carlos I;Norte;36;9;11;20;30.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856b68;01/05/2019;5;2019;Ozono;Urbana de Fondo;Farolillo;Sur;84;36;41;77;75.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b6d;01/06/2019;6;2019;Ozono;Suburbana;Juan Carlos I;Norte;81;8;9;17;72.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b70;01/06/2019;6;2019;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;65;156;171;327;71.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b76;01/06/2019;6;2019;Ozono;Urbana de Fondo;Farolillo;Sur;83;36;40;76;74.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b7b;01/07/2019;7;2019;Ozono;Suburbana;Juan Carlos I;Norte;92;8;10;18;80.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856b9a;01/09/2019;9;2019;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;48;138;152;290;52.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856bf4;01/03/2020;3;2020;Ozono;Urbana de Fondo;Farolillo;Sur;57;175;163;338;53.66666667;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856bf9;01/04/2020;4;2020;Ozono;Suburbana;Juan Carlos I;Norte;59;39;47;86;63.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856c23;01/07/2020;7;2020;Ozono;Suburbana;Juan Carlos I;Norte;78;12;15;27;80.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856c2c;01/07/2020;7;2020;Ozono;Urbana de Fondo;Farolillo;Sur;84;47;57;104;73.33333333;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856c31;01/08/2020;8;2020;Ozono;Suburbana;Juan Carlos I;Norte;66;13;15;28;70.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856c32;01/08/2020;8;2020;Ozono;Suburbana;Casa de Campo;Oeste;65;17;20;37;66.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856c50;01/10/2020;10;2020;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;43;283;284;567;41.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856cb0;01/05/2021;5;2021;Ozono;Suburbana;Casa de Campo;Oeste;75;10;12;22;68.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856cc6;01/06/2021;6;2021;Ozono;Urbana de Fondo;Farolillo;Sur;75;29;35;64;48.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856ccb;01/07/2021;7;2021;Ozono;Suburbana;Juan Carlos I;Norte;78;9;10;19;78.75;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ccc;01/07/2021;7;2021;Ozono;Suburbana;Casa de Campo;Oeste;77;14;17;31;77.5;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856cd9;01/08/2021;8;2021;Ozono;Suburbana;Juan Carlos I;Norte;75;6;8;14;77.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856cdc;01/08/2021;8;2021;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;74;120;156;276;73.25;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ce7;01/09/2021;9;2021;Ozono;Suburbana;Juan Carlos I;Norte;50;6;6;12;54.75;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856cf5;01/10/2021;10;2021;Ozono;Suburbana;Juan Carlos I;Norte;41;6;7;13;42.25;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856cf8;01/10/2021;10;2021;Ozono;Urbana de Fondo;Plaza del Carmen;Interior M30;50;117;130;247;42.75;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856d20;01/01/2010;1;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;20;181;173;354;11.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856d2d;01/02/2010;2;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;18;158;154;312;13.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856d3a;01/03/2010;3;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;28;156;149;305;23.6;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856d47;01/04/2010;4;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;157;157;314;16.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856d7b;01/08/2010;8;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;30;146;146;292;33.2;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856d88;01/09/2010;9;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;26;134;137;271;29.2;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856d89;01/09/2010;9;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;22;6;5;11;21.33333333;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856da2;01/11/2010;11;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;158;153;311;20.8;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856db0;01/12/2010;12;2010;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;17;8;7;15;16.33333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856dbc;01/01/2011;1;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;23;192;184;376;22.6;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856dc9;01/02/2011;2;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;26;170;157;327;26.6;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856dd6;01/03/2011;3;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;21;187;162;349;21.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856de3;01/04/2011;4;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;30;163;153;316;30.6;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856dfd;01/06/2011;6;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;24;158;145;303;26.2;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856e0a;01/07/2011;7;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;21;156;150;306;23.8;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856e17;01/08/2011;8;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;26;152;151;303;27.2;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856e4b;01/12/2011;12;2011;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;25;197;181;378;25.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856e65;01/02/2012;2;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;186;212;398;17.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856e72;01/03/2012;3;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;25;188;202;390;24.8;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856e7f;01/04/2012;4;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;168;180;348;15.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856e80;01/04/2012;4;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;16;9;9;18;12.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856e99;01/06/2012;6;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;38;161;166;327;40.8;Bueno;Regular;Normal
+6742081cd13b2ab272856ea6;01/07/2012;7;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;29;152;174;326;32.6;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856eb3;01/08/2012;8;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;43;157;167;324;43.6;Bueno;Regular;Normal
+6742081cd13b2ab272856ec0;01/09/2012;9;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;23;150;151;301;24.2;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ecd;01/10/2012;10;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;20;153;167;320;20.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ee7;01/12/2012;12;2012;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;16;176;205;381;16.6;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f02;01/02/2013;2;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;12;9;8;17;10.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f0e;01/03/2013;3;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;12;171;179;350;13.6;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f0f;01/03/2013;3;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;10;9;8;17;9.666666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f1b;01/04/2013;4;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;16;156;162;318;17.6;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f28;01/05/2013;5;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;15;162;152;314;14.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f35;01/06/2013;6;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;21;161;158;319;23.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856f42;01/07/2013;7;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;30;164;164;328;31.4;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856f76;01/11/2013;11;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;15;175;170;345;15.8;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f77;01/11/2013;11;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;11;9;8;17;11.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f83;01/12/2013;12;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;18;195;185;380;17.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f84;01/12/2013;12;2013;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;13;10;9;19;13.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856f90;01/01/2014;1;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;11;208;209;417;12.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856fb7;01/04/2014;4;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;166;165;331;19.4;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856fc4;01/05/2014;5;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;18;155;163;318;18.4;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272856ff8;01/09/2014;9;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;20;145;149;294;22.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272856ff9;01/09/2014;9;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;20;6;10;16;20.33333333;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285701f;01/12/2014;12;2014;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;190;182;372;18.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285703a;01/02/2015;2;2015;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;8;12;14;26;9.333333333;Muy Bueno;Bueno;Normal
+6742081cd13b2ab27285706d;01/06/2015;6;2015;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;21;171;178;349;21.6;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab27285707a;01/07/2015;7;2015;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;25;200;243;443;25.8;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728570bb;01/12/2015;12;2015;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;39;180;200;380;37.4;Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab2728570d6;01/02/2016;2;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;20;8;9;17;19.66666667;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728570e2;01/03/2016;3;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;14;174;206;380;14.4;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728570ef;01/04/2016;4;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;10;161;177;338;10.6;Muy Bueno;Bueno;Normal
+6742081cd13b2ab2728570fc;01/05/2016;5;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;12;151;172;323;13.2;Muy Bueno;Bueno;Normal
+6742081cd13b2ab272857116;01/07/2016;7;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;22;161;182;343;24.4;Muy Bueno;Razonablemente bueno;Normal
+6742081cd13b2ab272857130;01/09/2016;9;2016;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;25;139;167;306;25.2;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab2728571f3;01/12/2017;12;2017;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;18;195;223;418;14.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab27285720d;01/02/2018;2;2018;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;175;201;376;11.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab27285721a;01/03/2018;3;2018;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;7;189;204;393;6.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857234;01/05/2018;5;2018;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;11;162;175;337;10.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857275;01/10/2018;10;2018;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;17;159;176;335;19.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728572a9;01/02/2019;2;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;25;178;205;383;26.8;Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab2728572b6;01/03/2019;3;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;15;173;201;374;18.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728572d0;01/05/2019;5;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;10;157;179;336;12.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728572d1;01/05/2019;5;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;11;8;9;17;12.33333333;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728572ea;01/07/2019;7;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;26;159;193;352;28.6;Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab27285732b;01/12/2019;12;2019;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;167;197;364;15.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857338;01/01/2020;1;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;19;247;288;535;20.2;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab27285735f;01/04/2020;4;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;10;637;779;1416;9.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab27285736c;01/05/2020;5;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;11;231;260;491;13.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728573a0;01/09/2020;9;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;15;262;262;524;16.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728573ba;01/11/2020;11;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;17;240;248;488;19.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728573c7;01/12/2020;12;2020;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;9;238;263;501;12.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728573d4;01/01/2021;1;2021;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;16;164;172;336;16.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728573fb;01/04/2021;4;2021;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;113;129;242;14.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857409;01/05/2021;5;2021;Partículas en suspensión < 10µm;Urbana de Fondo;Sanchinarro;Norte;11;6;7;13;13.33333333;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857456;01/11/2021;11;2021;Partículas en suspensión < 10µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;118;134;252;11.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857470;01/01/2010;1;2010;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;11;181;173;354;6.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728574b0;01/09/2010;9;2010;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;13;134;137;271;12.6;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab2728574c0;01/11/2010;11;2010;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;11;158;153;311;11.8;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab272857538;01/02/2012;2;2012;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;12;186;212;398;10.8;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab272857568;01/08/2012;8;2012;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;17;157;167;324;15.6;Muy Bueno;Razonablemente bueno;Concentración elevada
+6742081dd13b2ab272857580;01/11/2012;11;2012;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;10;166;178;344;10.4;Muy Bueno;Razonablemente bueno;Normal
+6742081dd13b2ab272857598;01/02/2013;2;2013;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;9;162;164;326;9.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728575a0;01/03/2013;3;2013;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;7;171;179;350;7.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728575a8;01/04/2013;4;2013;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;8;156;162;318;9.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728575b0;01/05/2013;5;2013;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;7;162;152;314;8.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728575e0;01/11/2013;11;2013;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;8;175;170;345;8.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857658;01/02/2015;2;2015;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;8;207;239;446;8.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728576d0;01/05/2016;5;2016;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;7;151;172;323;7.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857750;01/09/2017;9;2017;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;9;151;164;315;8.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857780;01/03/2018;3;2018;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;5;189;204;393;4.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857788;01/04/2018;4;2018;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;8;165;180;345;7.4;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728577b8;01/10/2018;10;2018;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;9;159;176;335;9.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728577e8;01/04/2019;4;2019;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;5;152;169;321;6.6;Muy Bueno;Bueno;Normal
+6742081dd13b2ab272857820;01/11/2019;11;2019;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;5;158;168;326;5.8;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728578e0;01/11/2021;11;2021;Partículas en suspensión < 2,5µm;Urbana de Fondo;Méndez Álvaro;Interior M30;7;118;134;252;6.2;Muy Bueno;Bueno;Normal
+6742081dd13b2ab2728578ef;01/01/2010;1;2010;Benceno;Suburbana;Casa de Campo;Oeste;0.8;11;12;23;0.8;;;Concentración elevada
+6742081dd13b2ab2728578f0;01/01/2010;1;2010;Benceno;Urbana de Fondo;Urbanización Embajada;Norte;0.5;8;7;15;0.5;;;Concentración elevada
+6742081dd13b2ab2728578f1;01/01/2010;1;2010;Benceno;Urbana de Fondo;Farolillo;Sur;2.1;36;32;68;2.1;;;Concentración elevada
+6742081dd13b2ab2728578f2;01/01/2010;1;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.2;181;173;354;0.866666667;;;Concentración elevada
+6742081dd13b2ab2728578f5;01/02/2010;2;2010;Benceno;Suburbana;Casa de Campo;Oeste;0.7;9;10;19;0.7;;;Concentración elevada
+6742081dd13b2ab2728578f6;01/02/2010;2;2010;Benceno;Urbana de Fondo;Urbanización Embajada;Norte;0.4;7;6;13;0.4;;;Concentración elevada
+6742081dd13b2ab2728578f7;01/02/2010;2;2010;Benceno;Urbana de Fondo;Farolillo;Sur;1.9;32;29;61;1.9;;;Concentración elevada
+6742081dd13b2ab2728578f8;01/02/2010;2;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.2;158;154;312;0.9;;;Concentración elevada
+6742081dd13b2ab2728578fd;01/03/2010;3;2010;Benceno;Urbana de Fondo;Farolillo;Sur;1.4;31;28;59;1.4;;;Concentración elevada
+6742081dd13b2ab2728578fe;01/03/2010;3;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.9;156;149;305;0.8;;;Concentración elevada
+6742081dd13b2ab272857903;01/04/2010;4;2010;Benceno;Urbana de Fondo;Farolillo;Sur;0.2;32;29;61;0.2;;;Concentración elevada
+6742081dd13b2ab27285790a;01/05/2010;5;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.5;161;150;311;0.766666667;;;Concentración elevada
+6742081dd13b2ab272857915;01/07/2010;7;2010;Benceno;Urbana de Fondo;Farolillo;Sur;0.3;33;29;62;0.3;;;Concentración elevada
+6742081dd13b2ab272857916;01/07/2010;7;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.5;166;157;323;0.833333333;;;Concentración elevada
+6742081dd13b2ab272857919;01/08/2010;8;2010;Benceno;Suburbana;Casa de Campo;Oeste;0.6;9;10;19;0.6;;;Concentración elevada
+6742081dd13b2ab27285791c;01/08/2010;8;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.4;146;146;292;0.7;;;Concentración elevada
+6742081dd13b2ab272857922;01/09/2010;9;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.7;134;137;271;1.133333333;;;Concentración elevada
+6742081dd13b2ab272857928;01/10/2010;10;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.8;156;150;306;1.4;;;Concentración elevada
+6742081dd13b2ab272857934;01/12/2010;12;2010;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.2;175;167;342;1.7;;;Concentración elevada
+6742081dd13b2ab27285793a;01/01/2011;1;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.6;192;184;376;1.733333333;;;Concentración elevada
+6742081dd13b2ab272857940;01/02/2011;2;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1;170;157;327;1.666666667;;;Concentración elevada
+6742081dd13b2ab272857946;01/03/2011;3;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;187;162;349;1.1;;;Concentración elevada
+6742081dd13b2ab27285794c;01/04/2011;4;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;163;153;316;0.866666667;;;Concentración elevada
+6742081dd13b2ab272857952;01/05/2011;5;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;162;151;313;0.7;;;Concentración elevada
+6742081dd13b2ab272857964;01/08/2011;8;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;152;151;303;0.633333333;;;Concentración elevada
+6742081dd13b2ab27285796a;01/09/2011;9;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.6;147;145;292;1.2;;;Concentración elevada
+6742081dd13b2ab272857970;01/10/2011;10;2011;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.7;177;162;339;1.333333333;;;Concentración elevada
+6742081dd13b2ab272857982;01/01/2012;1;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1;208;244;452;1.766666667;;;Concentración elevada
+6742081dd13b2ab272857988;01/02/2012;2;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.4;186;212;398;1.233333333;;;Concentración elevada
+6742081dd13b2ab27285798e;01/03/2012;3;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;188;202;390;0.966666667;;;Concentración elevada
+6742081dd13b2ab272857994;01/04/2012;4;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;168;180;348;0.666666667;;;Concentración elevada
+6742081dd13b2ab27285799a;01/05/2012;5;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;175;175;350;0.8;;;Concentración elevada
+6742081dd13b2ab2728579b2;01/09/2012;9;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.6;150;151;301;1.033333333;;;Concentración elevada
+6742081dd13b2ab2728579b8;01/10/2012;10;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.9;153;167;320;1.533333333;;;Concentración elevada
+6742081dd13b2ab2728579c4;01/12/2012;12;2012;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.1;176;205;381;1.833333333;;;Concentración elevada
+6742081dd13b2ab2728579d0;01/02/2013;2;2013;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.9;162;164;326;1.266666667;;;Concentración elevada
+6742081dd13b2ab2728579dc;01/04/2013;4;2013;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.5;156;162;318;0.733333333;;;Concentración elevada
+6742081dd13b2ab2728579fa;01/09/2013;9;2013;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.6;153;146;299;0.933333333;;;Concentración elevada
+6742081dd13b2ab272857a06;01/11/2013;11;2013;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.8;175;170;345;1.166666667;;;Concentración elevada
+6742081dd13b2ab272857a0c;01/12/2013;12;2013;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.3;195;185;380;1.6;;;Concentración elevada
+6742081dd13b2ab272857a0f;01/01/2014;1;2014;Benceno;Suburbana;Casa de Campo;Oeste;0.1;14;16;30;0.1;;;Normal
+6742081dd13b2ab272857a1e;01/03/2014;3;2014;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.6;185;172;357;1.066666667;;;Concentración elevada
+6742081dd13b2ab272857a3c;01/08/2014;8;2014;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;149;156;305;0.533333333;;;Concentración elevada
+6742081dd13b2ab272857a4e;01/11/2014;11;2014;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.3;168;163;331;1.366666667;;;Concentración elevada
+6742081dd13b2ab272857a58;01/01/2015;1;2015;Benceno;Urbana de Fondo;Urbanización Embajada;Norte;1.1;14;16;30;1.1;;;Concentración elevada
+6742081dd13b2ab272857a5a;01/01/2015;1;2015;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.6;237;273;510;1.9;;;Concentración elevada
+6742081dd13b2ab272857a60;01/02/2015;2;2015;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.5;207;239;446;1.033333333;;;Concentración elevada
+6742081dd13b2ab272857a72;01/05/2015;5;2015;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;168;189;357;0.633333333;;;Concentración elevada
+6742081dd13b2ab272857a84;01/08/2015;8;2015;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.1;165;171;336;0.466666667;;;Concentración elevada
+6742081dd13b2ab272857a8e;01/10/2015;10;2015;Benceno;Urbana de Fondo;Urbanización Embajada;Norte;1.3;10;10;20;1.3;;;Concentración elevada
+6742081dd13b2ab272857a9c;01/12/2015;12;2015;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;1.1;180;200;380;1.8;;;Concentración elevada
+6742081dd13b2ab272857ab4;01/04/2016;4;2016;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.1;161;177;338;0.466666667;;;Concentración elevada
+6742081dd13b2ab272857aba;01/05/2016;5;2016;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;151;172;323;0.4;;;Concentración elevada
+6742081dd13b2ab272857acc;01/08/2016;8;2016;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;156;167;323;0.566666667;;;Concentración elevada
+6742081dd13b2ab272857ad8;01/10/2016;10;2016;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.6;153;170;323;1.266666667;;;Concentración elevada
+6742081dd13b2ab272857b02;01/05/2017;5;2017;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.4;163;174;337;0.433333333;;;Concentración elevada
+6742081dd13b2ab272857b14;01/08/2017;8;2017;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;145;175;320;0.333333333;;;Concentración elevada
+6742081dd13b2ab272857b50;01/06/2018;6;2018;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;159;185;344;0.266666667;;;Concentración elevada
+6742081dd13b2ab272857b5c;01/08/2018;8;2018;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.1;159;183;342;0.233333333;;;Concentración elevada
+6742081dd13b2ab272857b8c;01/04/2019;4;2019;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;152;169;321;0.366666667;;;Concentración elevada
+6742081dd13b2ab272857bb0;01/10/2019;10;2019;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.3;161;183;344;0.566666667;;;Concentración elevada
+6742081dd13b2ab272857bd4;01/04/2020;4;2020;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;637;779;1416;0.233333333;;;Concentración elevada
+6742081dd13b2ab272857c2e;01/07/2021;7;2021;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.2;160;194;354;0.2;;;Concentración elevada
+6742081dd13b2ab272857c3a;01/09/2021;9;2021;Benceno;Urbana de Tráfico;Cuatro Caminos;Interior M30;0.1;107;118;225;0.166666667;;;Normal
